@@ -17,7 +17,8 @@ Le fichier script.py permet d’afficher les nombres premiers dans une certaine 
 
 
 On a également créé des branches pour éviter que notre travail se chevauche, que nous puissions apporter des modifications sans influencer le fichier d’origine
-![esfqersgqes](https://user-images.githubusercontent.com/114407880/193062368-8ba34681-7da4-436a-87e6-b57524f46b54.PNG)
+
+(https://user-images.githubusercontent.com/114407880/193062368-8ba34681-7da4-436a-87e6-b57524f46b54.PNG)
 
 Le second script permet de récupérer un Git de manière automatique sur un profil visé :
 
