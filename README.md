@@ -34,5 +34,6 @@ et enfin le 3ème script est un pendu dont son code est :
 
 ![pendu](https://user-images.githubusercontent.com/114407880/193064956-fbf5ddac-5f95-4820-8bcc-98bfb5c5578f.PNG)
 
+il a été upload comme les 2 scripts précédents.
 
-
+Voilà pour ce qui est de ce TP en groupe, nous nous sommes familiarisés avec Git et Github ce qui sera très utile pour la suite :).
