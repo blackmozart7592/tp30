@@ -1,6 +1,6 @@
 # tp30
 
-Je suis CHAOUIB Saïf et aujourd’hui on a réalisé un tp qui nous a permis de nous familiariser avec Git et justement pour pouvoir effectuer à l’avenir des projets en groupe par l’intermédiaire de ce logiciel. On constitue un groupe de 3 avec Michael et BARINE
+Je suis CHAOUIB Saïf et aujourd’hui on a réalisé un tp qui nous a permis de nous familiariser avec Git et justement pour pouvoir effectuer à l’avenir des projets en groupe par l’intermédiaire de ce logiciel. On constitue un groupe de 3 avec Michael et Birane
 Tout d’abord on fait la configuration de Git pour pouvoir partager nos scripts entre nous et pouvoir les modifier etc…
 
 Pour cela on commence par faire les commandes suivantes :
