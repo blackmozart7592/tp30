@@ -1,8 +1,9 @@
 
 
 #!/bin/bash
+
 min = int(1)
-max = int(100000)
+max = int(10)
 for n in range(min,max + 1):
    if n > 1:
        for i in range(2,n):
@@ -10,3 +11,4 @@ for n in range(min,max + 1):
                break
        else:
            print(n)
+
