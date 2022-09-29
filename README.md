@@ -27,9 +27,12 @@ Le second script permet de récupérer un Git de manière automatique sur un pro
 
 ![ddddddddddddddd](https://user-images.githubusercontent.com/114407880/193063145-9413a741-d687-4c33-9961-4e400081d475.PNG)
 
-de la même manière on l'a upload avec les commandes suivantes :
+de la même manière on l'a upload avec les commandes vues précédemment.
+
+
+et enfin le 3ème script est un pendu dont son code est :
 
 ![pendu](https://user-images.githubusercontent.com/114407880/193064956-fbf5ddac-5f95-4820-8bcc-98bfb5c5578f.PNG)
 
 
-et enfin le 3ème script est 
+
