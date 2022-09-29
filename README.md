@@ -23,3 +23,6 @@ On a également créé des branches pour éviter que notre travail se chevauche,
 Le second script permet de récupérer un Git de manière automatique sur un profil visé :
 
 
+
+
+![ddddddddddddddd](https://user-images.githubusercontent.com/114407880/193063145-9413a741-d687-4c33-9961-4e400081d475.PNG)
