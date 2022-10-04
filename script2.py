@@ -1,4 +1,4 @@
-#Lire la saisie de l'utilisateur
+/bin/bash
 min = int(1)
 max = int(1000000)
 for n in range(min,max + 1):
